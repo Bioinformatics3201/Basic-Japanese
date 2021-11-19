@@ -67,4 +67,4 @@ The katakana for French fries is　フライドポテト, the hiragana is ふら
 Notice anything any similarities between the Romaji and the English word? They are very similar in pronounciation! 
 
 
-##For more Basic Japanese Learning, stay tuned and stay safe! 
+## For more Basic Japanese Learning, stay tuned and stay safe! 
