@@ -1,6 +1,6 @@
 <h1>Hello fellow classmates! Let's learn some basic Japanese</h1> 
 
-## basic alphabet in hiragana 
+## Basic Alphabet in Hiragana 
 
 あいうえお　read as: a i u e o
 
@@ -29,7 +29,7 @@ The most simplest form of Japanese characters are called ひらがな　or hirag
 Here we can see the most simplest form of Japanese langauge learned by infants at a young age just as how we learned our own alpabet when we were young.
 
 
-## basic greetings 
+## Basic Greetings 
 
 こんにちは read as: konnichiwa translated as: Hello, Hi, or Good afternoon
 
@@ -47,11 +47,11 @@ Here we can see the most simplest form of Japanese langauge learned by infants a
 
 どういたしまして read as: doitashimashite translated as: You're welcome 
 
-## kanji and katakana 
+## Kanji and Katakana 
 
 These are just many forms of the Japanese Alphatbet, there's also カタカナ or katana form and 漢字　or かんじ　or kanji which is derived from chinese characters. 
 
-### kanji example 
+### Kanji Example 
 
 The kanji for Japan is 日本, the hiragana is にっぽん, the romaji is nippon 
 The kanji for Japan is 日本語, the hiragana is にっぽんご, the romaji is nihongo
@@ -59,7 +59,7 @@ The kanji for Japan is 日本語, the hiragana is にっぽんご, the romaji is
 Notice the differences between the two? they might have the same charters on the first two but they are pronounced differently, or their phonology
 
 
-### katakana example 
+### Katakana Example 
 
 The katakana for America is　アメリカ, the hiragana is あめりか, the romaji is amerika
 The katakana for French fries is　フライドポテト, the hiragana is ふらいどぽてと, the romaji is furaidopoteto
