@@ -32,12 +32,19 @@ Here we can see the most simplest form of Japanese langauge learned by infants a
 ## basic greetings 
 
 こんにちは read as: konnichiwa translated as: Hello, Hi, or Good afternoon
+
 おはようございます read as: ohayogozaimasu translated as: Good morning 
+
 こんばんは read as: konbanwa translated as: Good evening
+
 さようなら read as: sayonara translated as: Goodbye
+
 おげんきですか read as: ogenkidesuka translated as: How are you or are you well 
+
 げんきです read as: genkidesu translated as: I'm good or I'm well
+
 ありがとうございました read as: arigatogozaimasu translated as: Thank you very much 
+
 どういたしまして read as: doitashimashite translated as: You're welcome 
 
 ## kanji and katakana 
